@@ -1,0 +1,6 @@
+#change the path HomePage //very important to every every cipher type 
+
+#change the path every cipher type //very important to HomePage 
+
+
+to make program work well 
